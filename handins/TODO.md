@@ -15,9 +15,6 @@
 - 2.2.2.D - Not done yet
 - 2.2.2.E - Not done yet
 - 2.2.3 - Not done yet
-- 3.1.2 - Not done yet (dependent on 3.1.1)
-- 3.1.3 - Might work, but check implementation
-- 3.2.1 - Might work, but check implementation
 - 3.2.2.A - Not done yet
 - 3.2.2.B - Not done yet
 - 3.2.3 - Might work, but check implementation
