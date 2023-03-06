@@ -22,9 +22,6 @@
 - 3.3.2.A - Not done yet (Depends on 3.3.1)
 - 3.3.2.B - Not done yet (Depends on 3.3.1)
 - 3.3.3 - Not done yet
-- 4.1.1 - Might work, but check implementation
-- 4.1.2.A - Not done yet
-- 4.1.2.B - Not done yet
 - 4.1.3.A - Not done yet
 - 4.1.3.B - Not done yet
 - 4.2 - Not done yet
