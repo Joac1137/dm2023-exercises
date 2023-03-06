@@ -1,0 +1,41 @@
+- 1.1.1 - Rewrite
+- 1.1.2.A - Rewrite
+- 1.1.2.B - Rewrite / write more
+- 1.1.3 - Remove code and compute by hand
+- 1.1.4.A - Rewrite
+- 1.1.4.B - Write more
+- 1.3.2 - Check the second equation
+- 2.1.1.A - Check result with np
+- 2.1.1.B - Check and write more
+- 2.1.1.C - Check and write more
+- 2.1.1.D - Not done yet
+- 2.1.2 - Write stuff look at slides
+- 2.1.3 - Check if correct
+- 2.1.4 - Not done yet
+- 2.2.1 - Check implementation
+- 2.2.2.A - Not done yet
+- 2.2.2.B - Not done yet
+- 2.2.2.C - Not done yet
+- 2.2.2.D - Not done yet
+- 2.2.2.E - Not done yet
+- 2.2.3 - Not done yet
+- 3.1.1.A - Check implementation (currently wrong)
+- 3.1.1.B - Not done yet
+- 3.1.2 - Not done yet (dependent on 3.1.1)
+- 3.1.3 - Might work, but check implementation
+- 3.2.1 - Might work, but check implementation
+- 3.2.2.A - Not done yet
+- 3.2.2.B - Not done yet
+- 3.2.3 - Might work, but check implementation
+- 3.2.4.A - Not done yet
+- 3.2.4.B - Not done yet
+- 3.3.1 - Almost done
+- 3.3.2.A - Not done yet (Depends on 3.3.1)
+- 3.3.2.B - Not done yet (Depends on 3.3.1)
+- 3.3.3 - Not done yet
+- 4.1.1 - Might work, but check implementation
+- 4.1.2.A - Not done yet
+- 4.1.2.B - Not done yet
+- 4.1.3.A - Not done yet
+- 4.1.3.B - Not done yet
+- 4.2 - Not done yet
