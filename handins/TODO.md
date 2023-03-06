@@ -1,12 +1,5 @@
-- 1.1.1 - Rewrite
-- 1.1.2.A - Rewrite
-- 1.1.2.B - Rewrite / write more
-- 1.1.3 - Remove code and compute by hand
-- 1.1.4.A - Rewrite
-- 1.1.4.B - Write more
+
 - 1.3.2 - Check the second equation
-- 2.1.1.D - Not done yet
-- 2.1.3 - Check if correct
 - 2.1.4 - Not done yet
 - 2.2.1 - Check implementation
 - 2.2.2.A - Not done yet
@@ -35,3 +28,4 @@
 - 4.1.3.A - Not done yet
 - 4.1.3.B - Not done yet
 - 4.2 - Not done yet
+- 1.3 - Look at it again
