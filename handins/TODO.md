@@ -1,18 +1,8 @@
 
 - 1.3.2 - Check the second equation
 - 2.1.4 - Not done yet
-- 2.2.1 - Check implementation
-- 2.2.2.A - Not done yet
-- 2.2.2.B - Not done yet
-- 2.2.2.C - Not done yet
-- 2.2.2.D - Not done yet
-- 2.2.2.E - Not done yet
-- 2.2.3 - Not done yet
 - 3.2.2 - (maybe run with kmeans used in 3.1.1)
 - 3.2.3 - Ask at TØ
 - 3.2.4.A - Should be rerun after 3.2.3 (maybe run with kmeans used in 3.1.1)
 - 3.3.3 - Not done yet (BIG)
-- 4.1.3.A - Not done yet
-- 4.1.3.B - Not done yet
-- 4.2 - Not done yet
 - 1.3 - Look at it again
